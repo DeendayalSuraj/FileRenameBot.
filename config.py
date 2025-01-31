@@ -145,7 +145,7 @@ V𝟹.𝟶.𝟶 [STABLE]
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @GMoviesX" -metadata author="@umeshgurjar1390" -metadata:s:s title="Subtitled By :- @UmeshGurjar1390" -metadata:s:a title="By :- @UmeshGurjar1390" -metadata:s:v title="By:- @UmeshGurjar1390" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @GmoviesX
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Deendayal_Suraj
 """
     
     CUSTOM_FILE_NAME = """
@@ -160,8 +160,8 @@ you can pre-add a prefix and suffix along with your new filename
 ➢ /see_suffix - Tᴏ Sᴇᴇ Yᴏᴜʀ Sᴜғғɪx !!
 ➢ /del_suffix - Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Sᴜғғɪx !!
 
-Exᴀᴍᴩʟᴇ:- `/set_suffix @GMoviesX`
-Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
+Exᴀᴍᴩʟᴇ:- `/set_suffix @Deendayal_Suraj`
+Exᴀᴍᴩʟᴇ:- `/set_prefix @Deendayal_Suraj`
 """
     
     #⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
@@ -171,8 +171,8 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
     
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/Umeshgurjar1390>File-Rename-Bot</a>
 
-• ❣️ <a href=https://t.me/UmeshGurjar1390>Dᴇᴠɪʟ Lᴜᴄɪғᴇʀ</a>
-• ❣️ <a href=https://t.me/ganeshgurjar0069>Ganesh Gurjar</a> """
+• ❣️ <a href=https://t.me/Deendayal_dhakadd>Deendayal Suraj</a>
+• ❣️ <a href=https://t.me/Deendayal_dhakadd>Deendayal Suraj</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -182,7 +182,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @GMoviesX`
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @Rkn_Bots" -metadata author="@RknDeveloper" -metadata:s:s title="Subtitled By :- @Rkn_Bots" -metadata:s:a title="By :- @Rkn_Bots" -metadata:s:v title="By:- @RknDeveloper" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @GmoviesX
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Deendayal_Suraj
 """
     
     RKN_PROGRESS = """<b>\n
