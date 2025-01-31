@@ -43,21 +43,21 @@ from helper.utils import humanbytes
 from plugins import __version__ as _bot_version_, __developer__, __database__, __library__, __language__, __programer__
 
 upgrade_button = InlineKeyboardMarkup([[        
-        InlineKeyboardButton('buy premium ✓', user_id=int(6267863649)),
+        InlineKeyboardButton('buy premium ✓', user_id=int(6476706511)),
          ],[
         InlineKeyboardButton("Bᴀᴄᴋ", callback_data = "start")
 ]])
 
 upgrade_trial_button = InlineKeyboardMarkup([[        
-        InlineKeyboardButton('buy premium ✓', user_id=int(6267863649)),
+        InlineKeyboardButton('buy premium ✓', user_id=int(6476706511)),
          ],[
         InlineKeyboardButton("ᴛʀɪᴀʟ - 𝟷𝟸 ʜᴏᴜʀs ✓", callback_data = "give_trial"),
         InlineKeyboardButton("Bᴀᴄᴋ", callback_data = "start")
 ]])
 
 start_button = InlineKeyboardMarkup([[        
-        InlineKeyboardButton('Uᴩᴅᴀ𝚃ᴇꜱ', url='https://t.me/UGMoviez'),
-        InlineKeyboardButton('Sᴜᴩᴩᴏʀ𝚃', url='https://t.me/GmoviesX')
+        InlineKeyboardButton('Uᴩᴅᴀ𝚃ᴇꜱ', url='https://t.me/Deendayal_dhakadd'),
+        InlineKeyboardButton('Sᴜᴩᴩᴏʀ𝚃', url='t.me/Deendayal_Suraj')
         ],[
         InlineKeyboardButton('Aʙᴏυᴛ', callback_data='about'),
         InlineKeyboardButton('Hᴇʟᴩ', callback_data='help')
